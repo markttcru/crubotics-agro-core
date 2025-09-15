@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy>=2.0
+pydantic>=2.6
+pydantic-settings
+paho-mqtt
+requests
+prometheus_client
+PyYAML
+alembic>=1.13
+psycopg2-binary
+python-jose[cryptography]
+reportlab
